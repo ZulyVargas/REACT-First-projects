@@ -1,0 +1,45 @@
+* {
+  margin: 0;
+  box-sizing:border-box;
+}
+
+html, body {
+  background-color: #1b1b32;
+}
+
+.App {
+  height: 100vh;
+  padding-top: 10px;
+  background-color: #1b1b32;
+  font-family: Robotic, sans-serif;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  color: white;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 410%;
+  font-family: monospace, Times, serif;
+}
+
+.principal-container {
+  width: 400px;
+  height: 600px;
+  padding: 14px;
+  background-color: rgba(50, 47, 47, 0.58);
+  border-radius: 20px;
+  border: 5px solid white;
+}
+
+.row {
+  margin: 4px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

@@ -1,0 +1,30 @@
+
+.button-container {
+  height: 83px;
+  display: flex;
+  flex: 1 1;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+  font-size: 38px;
+  background-color: rgba(13, 10, 10, 0.458);
+  color:white;
+  border: 3px solid white;
+  border-radius: 25px;
+  margin: 5px;
+  cursor: pointer;
+  user-select: none;
+}
+
+.button-container:hover {
+  background-color: blueviolet;
+}
+
+.operator{
+  background-color: rgba(22, 109, 14, 0.458);
+
+}
+
+.operator:hover{
+  background-color: aquamarine;
+}
