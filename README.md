@@ -14,9 +14,9 @@ https://youtu.be/6Jfk8ic3KVk
 
 To download the projects type in a console: 
 
-    git clone https://github.com/ZulyVargas/REACT---First-projects.git
+    git clone https://github.com/ZulyVargas/REACT-First-projects.git
 
-To run each project:s
+To run each project:
    
     npm start
 
